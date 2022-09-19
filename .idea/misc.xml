@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ale/AndroidStudioProjects/LADM_U2_P2_AlmacenamientoArchivosPlanos_18401126_18401186/app/src/main/res/drawable/ic_launcher_background.xml" value="0.166" />
+        <entry key="..\:/Users/Ale/AndroidStudioProjects/LADM_U2_P2_AlmacenamientoArchivosPlanos_18401126_18401186/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.11" />
+        <entry key="..\:/Users/Ale/AndroidStudioProjects/LADM_U2_P2_AlmacenamientoArchivosPlanos_18401126_18401186/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1255" />
+        <entry key="..\:/Users/Ale/AndroidStudioProjects/LADM_U2_P2_AlmacenamientoArchivosPlanos_18401126_18401186/app/src/main/res/drawable/side_nav_bar.xml" value="0.125" />
+        <entry key="..\:/Users/Ale/AndroidStudioProjects/LADM_U2_P2_AlmacenamientoArchivosPlanos_18401126_18401186/app/src/main/res/layout/activity_main.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Ale/AndroidStudioProjects/LADM_U2_P2_AlmacenamientoArchivosPlanos_18401126_18401186/app/src/main/res/layout/app_bar_main.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Ale/AndroidStudioProjects/LADM_U2_P2_AlmacenamientoArchivosPlanos_18401126_18401186/app/src/main/res/layout/card_layout.xml" value="0.22" />
+        <entry key="..\:/Users/Ale/AndroidStudioProjects/LADM_U2_P2_AlmacenamientoArchivosPlanos_18401126_18401186/app/src/main/res/layout/content_main.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/Ale/AndroidStudioProjects/LADM_U2_P2_AlmacenamientoArchivosPlanos_18401126_18401186/app/src/main/res/layout/fragment_gallery.xml" value="0.22" />
+        <entry key="..\:/Users/Ale/AndroidStudioProjects/LADM_U2_P2_AlmacenamientoArchivosPlanos_18401126_18401186/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/Ale/AndroidStudioProjects/LADM_U2_P2_AlmacenamientoArchivosPlanos_18401126_18401186/app/src/main/res/layout/fragment_menu.xml" value="0.25" />
+        <entry key="..\:/Users/Ale/AndroidStudioProjects/LADM_U2_P2_AlmacenamientoArchivosPlanos_18401126_18401186/app/src/main/res/layout/fragment_slideshow.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Ale/AndroidStudioProjects/LADM_U2_P2_AlmacenamientoArchivosPlanos_18401126_18401186/app/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="..\:/Users/Ale/AndroidStudioProjects/LADM_U2_P2_AlmacenamientoArchivosPlanos_18401126_18401186/app/src/main/res/menu/activity_main_drawer.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Ale/AndroidStudioProjects/LADM_U2_P2_AlmacenamientoArchivosPlanos_18401126_18401186/app/src/main/res/menu/main.xml" value="0.17864583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
